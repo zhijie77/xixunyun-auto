@@ -16,6 +16,7 @@
   - **<u>CODE</u>**--邮件通知，可选
   - **<u>EMAIL</u>**--邮件通知地址，可选
 
+GGGGGG
 #### 配置教程参数(Github-Secrets)
 
 1. ![](https://ftp.bmp.ovh/imgs/2022/02/b259b4e2d9e504d4.png)
